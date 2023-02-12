@@ -1,5 +1,5 @@
 import { analyzeArray } from "./analyzeArray";
 
-test('Return string with letters shifted by key number', () => {
-    expect(analyzeArray([1, 2, 3, 4]).toBe());
+test('Return object with correct average', () => {
+    expect(analyzeArray([1,8,3,4,2,6]).toStrictEqual({ average: 4, min: 1, max: 8, length: 6 }));
 });
