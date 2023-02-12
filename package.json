@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JakeBrowning90/testing-practice/issues"
   },
-  "homepage": "https://github.com/JakeBrowning90/testing-practice#readme"
+  "homepage": "https://github.com/JakeBrowning90/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2"
+  }
 }
