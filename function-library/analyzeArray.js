@@ -32,7 +32,7 @@ function analyzeArray(array) {
     analysis.min = getMin(array);
     analysis.max = getMax(array);
     analysis.length = array.length;
-    console.log(analysis);
+    // console.log(analysis);
     return analysis;
 }
 
